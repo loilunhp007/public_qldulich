@@ -28,12 +28,7 @@ namespace TourManager.Models
             { 
                 get { return LoaiTour.TenLoai; }
             }
-
-
-        public List<BangGia> BangGias { get; set; }
-        public List<CtTour> CtTours { get; set; }
-        public List<Doan> Doans { get; set; }
-
+            
         public static List<Tour> GetAll()
         {
             return TourDAL.GetAll();
