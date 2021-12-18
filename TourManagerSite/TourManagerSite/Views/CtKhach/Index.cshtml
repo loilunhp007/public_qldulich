@@ -1,0 +1,69 @@
+﻿@model List<TourManager.Models.CtDoan>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold">CHI TIẾT KHÁCH</h6>
+    </div>
+    <div class="card-body">
+        <form class="form-inline">
+            <div class="form-group mb-2 mx-4">
+                <label>Đoàn</label>
+                <div class="col-3" id="allDoan"></div>
+            </div>
+        </form>
+        <div class="col-12 text-right">
+            <a asp-controller="CtKhach" asp-action="Create" class="btn btn-info">
+                <i class="fas fa-plus"></i>
+            </a>
+        </div>
+
+        <br />
+
+        @if (Model.Count() > 0)
+        {
+            <table id="ctKhachTable" class="table table-bordered table table-striped" style="width100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Tên Đoàn
+                        </th>
+                        <th>
+                            Tên Khách
+                        </th>
+                        <th>
+                            CMND
+                        </th>                       
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var ct in Model)
+                    {
+                        <tr>
+                            <td>@ct.Doan.TenDoan</td>
+                            <td>@ct.Khach.Ten</td>
+                            <td>@ct.Khach.Cmnd</td>
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-id="@ct.MaCtDoan" class="btn btn-success mx-4">
+                                    <i class="far fa-edit"></i>
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@ct.MaCtDoan" class="btn btn-danger">
+                                    <i class="far fa-trash-alt"></i>
+                                </a>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Rỗng</p>
+        }
+    </div>
+</div>

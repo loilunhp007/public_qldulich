@@ -1,0 +1,388 @@
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.csproj.AssemblyReference.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.AssemblyInfoInputs.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.AssemblyInfo.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.csproj.CoreCompileInputs.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.MvcApplicationPartsAssemblyInfo.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorAssemblyInfo.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorAssemblyInfo.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\staticwebassets\TourManagerSite.StaticWebAssets.Manifest.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\staticwebassets\TourManagerSite.StaticWebAssets.xml
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\scopedcss\bundle\TourManagerSite.styles.css
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.TagHelpers.input.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.TagHelpers.output.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorCoreGenerate.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorTargetAssemblyInfo.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorTargetAssemblyInfo.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\ref\TourManagerSite.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\appsettings.Development.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\appsettings.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.exe
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.deps.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.runtimeconfig.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.runtimeconfig.dev.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ref\TourManagerSite.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.Views.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.Views.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Humanizer.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.Views.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.csproj.CopyComplete
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.genruntimeconfig.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Index.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Delete.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Create.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Edit.cshtml.g.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\appsettings.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.exe
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.deps.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.runtimeconfig.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.runtimeconfig.dev.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ref\TourManagerSite.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.Views.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\TourManagerSite.Views.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.csproj.AssemblyReference.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.AssemblyInfoInputs.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.AssemblyInfo.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.csproj.CoreCompileInputs.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorAssemblyInfo.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorAssemblyInfo.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\staticwebassets\TourManagerSite.StaticWebAssets.Manifest.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\staticwebassets\TourManagerSite.StaticWebAssets.xml
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\scopedcss\bundle\TourManagerSite.styles.css
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.TagHelpers.input.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.TagHelpers.output.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorCoreGenerate.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\BangGia\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\ChiPhi\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtKhach\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\CtTour\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\DiaDiem\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Doan\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Khach\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiCp\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\LoaiTour\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\NhanVien\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\PhanCong\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Create.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Delete.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Edit.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\Tour\Index.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorTargetAssemblyInfo.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.RazorTargetAssemblyInfo.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.Views.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\ref\TourManagerSite.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.genruntimeconfig.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManagerSite\TourManagerSite\obj\Debug\net5.0\TourManagerSite.csproj.CopyComplete

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\FBangGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FCpDoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FCtKhach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FCtTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FDiaDiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FDoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FKhach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FLoaiCp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FLoaiTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FPcDoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FTkDoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FTkDs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FTkNv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FTkTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\FTour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

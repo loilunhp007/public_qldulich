@@ -1,0 +1,52 @@
+﻿@model TourManager.Models.Tour
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold">XÓA TOUR</h6>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="row">
+                <div class="col-8">
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="TenTour">Tên Tour</label>
+                        </div>
+                        <div class="col-8">
+                            <input readonly="readonly" asp-for="TenTour" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="MaLoai">Loại Tour</label>
+                        </div>
+                        <div class="col-8">
+                            <select disabled asp-for="MaLoai" asp-items="@(new SelectList(ViewBag.LayLoaiTour, "MaLoai", "TenLoai"))" class="form-control">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="DacDiem">Đặc Điểm</label>
+                        </div>
+                        <div class="col-8">
+                            <input readonly="readonly" asp-for="DacDiem" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-8 offset-4 row">
+                            <div class="col">
+                                <input type="submit" class="btn btn-danger w-100" value="Xóa" />
+                            </div>
+                            <div class="col">
+                                <a asp-action="Index" class="btn btn-dark w-100"><i class="fas fa-sign-out-alt"></i>Trở lại</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

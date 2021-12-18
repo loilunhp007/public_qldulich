@@ -1,0 +1,69 @@
+﻿@model TourManager.Models.Doan
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold">SỬA ĐOÀN</h6>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <input asp-for="MaDoan" hidden />
+
+            <div class="row">
+                <div class="col-8">
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="MaTour">Tour</label>
+                        </div>
+                        <div class="col-8">
+                            <select asp-for="MaTour" asp-items="@(new SelectList(ViewBag.LayTour, "MaTour", "TenTour"))" class="form-control">
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="TenDoan">Tên Đoàn</label>
+                        </div>
+                        <div class="col-8">
+                            <input required asp-for="TenDoan" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="NgayBd">Ngày Bắt Đầu</label>
+                        </div>
+                        <div class="col-8">
+                            <input required type="date" asp-for="NgayBd" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="NgayKt">Ngày Kết Thúc</label>
+                        </div>
+                        <div class="col-8">
+                            <input required type="date" asp-for="NgayKt" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-4">
+                            <label asp-for="NoiDung">Nội Dung</label>
+                        </div>
+                        <div class="col-8">
+                            <input required asp-for="NoiDung" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-8 offset-4 row">
+                            <div class="col">
+                                <input type="submit" class="btn btn-success w-100" value="Sửa" />
+                            </div>
+                            <div class="col">
+                                <a asp-action="Index" class="btn btn-dark w-100"><i class="fas fa-sign-out-alt"></i>Trở lại</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+

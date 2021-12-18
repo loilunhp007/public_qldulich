@@ -1,0 +1,93 @@
+﻿@model List<TourManager.Models.Doan>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold">ĐOÀN</h6>
+    </div>
+    <div class="card-body">
+        <form class="form-inline">
+            <div class="form-group mb-2 mx-4">
+                <label>Tour</label>
+                <div class="col-3" id="allTour"></div>
+            </div>
+            <div class="form-group mb-2 mx-4">
+                <label>Đoàn</label>
+                <div class="col-3" id="allDoan"></div>
+            </div>
+        </form>
+        <div class="col-12 text-right">
+            <a asp-controller="Doan" asp-action="Create" class="btn btn-info">
+                <i class="fas fa-plus"></i>
+            </a>
+        </div>
+
+        <br />
+
+        @if (Model.Count() > 0)
+        {
+            <table id="doanTable" class="table table-bordered table table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Tên Tour
+                        </th>
+                        <th>
+                            Tên Đoàn
+                        </th>
+                        <th>
+                            Ngày bắt đầu
+                        </th>
+                        <th>
+                            Ngày kết thúc
+                        </th>
+                        <th>
+                            Nội dung
+                        </th>
+                        <th>
+                            Số Khách
+                        </th>
+                        <th>
+                            Số Nhân Viên
+                        </th>
+                        <th>
+                            Doanh Số
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var doan in Model)
+                    {
+                    <tr>
+                        <td>@doan.Tour.TenTour</td>
+                        <td>@doan.TenDoan</td>
+                        <td>@doan.NgayBd.ToShortDateString()</td>
+                        <td>@doan.NgayKt.ToShortDateString()</td>
+                        <td>@doan.NoiDung</td>
+                        <td>@doan.SoKhach</td>
+                        <td>@doan.SoNv</td>
+                        <td>@string.Format("{0:C0}", doan.DoanhSo)</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@doan.MaDoan" class="btn btn-success mx-2 my-2">
+                                <i class="far fa-edit"></i>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@doan.MaDoan" class="btn btn-danger mx-2 my-2">
+                                <i class="far fa-trash-alt"></i>
+                            </a>
+                        </td>
+                    </tr>
+
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Rỗng</p>
+        }
+    </div>
+</div>

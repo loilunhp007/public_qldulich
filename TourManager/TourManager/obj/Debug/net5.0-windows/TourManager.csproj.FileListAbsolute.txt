@@ -1,0 +1,344 @@
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.exe
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.deps.json
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.json
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.dev.json
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\ref\TourManager.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.pdb
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FMain.resources
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTour.resources
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.Properties.Resources.resources
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.GenerateResource.cache
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfoInputs.cache
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfo.cs
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.CoreCompileInputs.cache
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\ref\TourManager.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.pdb
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.genruntimeconfig.cache
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.AssemblyReference.cache
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.AssemblyReference.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FMain.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.Properties.Resources.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.GenerateResource.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfoInputs.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfo.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.CoreCompileInputs.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\ref\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.exe
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.deps.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.dev.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\ref\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Humanizer.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.genruntimeconfig.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDiaDiem.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FBangGia.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCpDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtKhach.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FKhach.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiCp.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FNhanVien.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FPcDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.AssemblyReference.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FBangGia.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCpDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtKhach.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDiaDiem.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FKhach.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiCp.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FMain.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FNhanVien.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FPcDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.Properties.Resources.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.GenerateResource.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfoInputs.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfo.cs
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.CoreCompileInputs.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\ref\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.exe
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.deps.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.dev.json
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\ref\TourManager.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Humanizer.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.genruntimeconfig.cache
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FThongKe.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkTour.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkDoan.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkNv.resources
+D:\SGU\Môn học\N4 HK1\XDPMPL\Đồ án MHPL\MHPL\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkDs.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.exe
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.deps.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.dev.json
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\ref\TourManager.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.AssemblyReference.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FBangGia.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCpDoan.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtKhach.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtTour.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDiaDiem.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDoan.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FKhach.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiCp.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiTour.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FMain.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FNhanVien.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FPcDoan.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FThongKe.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkDoan.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkDs.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkNv.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkTour.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTour.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.Properties.Resources.resources
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.GenerateResource.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfoInputs.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfo.cs
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.CoreCompileInputs.cache
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\ref\TourManager.dll
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.pdb
+C:\Users\lannhi\Desktop\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.exe
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.deps.json
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.json
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\ref\TourManager.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\TourManager.pdb
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FBangGia.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCpDoan.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtKhach.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FCtTour.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDiaDiem.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FDoan.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FKhach.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiCp.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FLoaiTour.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FMain.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FNhanVien.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FPcDoan.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FThongKe.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkDoan.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkDs.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkNv.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTkTour.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GUI.FTour.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\ref\TourManager.dll
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.pdb
+C:\Users\LENOVO\Desktop\qldulich\QuanLyDuLich\TourManager\TourManager\obj\Debug\net5.0-windows\TourManager.genruntimeconfig.cache

@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Tour Manager Site</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.6.0/jq-3.6.0/dt-1.11.3/b-2.1.0/fc-4.0.1/sc-2.0.5/sb-1.3.0/sp-1.4.0/sl-1.3.3/datatables.min.css" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <div class="container">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item font-weight-bold mx-2">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">HOME</a>
+                        </li>
+                        <li class="nav-item dropdown font-weight-bold mx-2">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                TOURS
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" asp-area="" asp-controller="Tour" asp-action="Index">DANH SÁCH</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="BangGia" asp-action="Index">BẢNG GIÁ</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="CtTour" asp-action="Index">CHI TIẾT</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="LoaiTour" asp-action="Index">LOẠI TOUR</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="DiaDiem" asp-action="Index">ĐỊA ĐIỂM</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown font-weight-bold mx-2">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                ĐOÀN
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" asp-area="" asp-controller="Doan" asp-action="Index">DANH SÁCH</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="CtKhach" asp-action="Index">CHI TIẾT KHÁCH</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="PhanCong" asp-action="Index">PHÂN CÔNG</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="ChiPhi" asp-action="Index">CHI PHÍ</a>
+                                <a class="dropdown-item" asp-area="" asp-controller="LoaiCp" asp-action="Index">LOẠI CHI PHÍ</a>
+                            </div>
+                        </li>
+                        <li class="nav-item font-weight-bold mx-2">
+                            <a class="nav-link" asp-area="" asp-controller="NhanVien" asp-action="Index">NHÂN VIÊN</a>
+                        </li>
+                        <li class="nav-item font-weight-bold mx-2">
+                            <a class="nav-link" asp-area="" asp-controller="Khach" asp-action="Index">KHÁCH</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*<footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - Tour Manager Site - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.6.0/jq-3.6.0/dt-1.11.3/b-2.1.0/fc-4.0.1/sc-2.0.5/sb-1.3.0/sp-1.4.0/sl-1.3.3/datatables.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

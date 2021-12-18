@@ -1,0 +1,85 @@
+﻿@model List<TourManager.Models.Tour>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold">TOURS</h6>
+    </div>
+    <div class="card-body">
+        <form class="form-inline">
+            <div class="form-group mb-2 mx-4">
+                <label>Tour</label>
+                <div class="col-3" id="allTour"></div>
+            </div>
+        </form>
+        <div class="col-12 text-right">
+            <a asp-controller="Tour" asp-action="Create" class="btn btn-info">
+                <i class="fas fa-plus"></i>
+            </a>
+        </div>
+
+        <br />
+
+        @if (Model.Count() > 0)
+        {
+            <table id="tourTable" class="table table-bordered table table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Tên Tour
+                        </th>
+                        <th>
+                            Tên Loại Tour
+                        </th>
+                        <th>
+                            Đặc Điểm
+                        </th>
+                        <th>
+                            Số Đoàn
+                        </th>
+                        <th>
+                            Số Khách
+                        </th>
+                        <th>
+                            Số Nhân Viên
+                        </th>
+                        <th>
+                            Doanh Số
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var tour in Model)
+                    {
+                    <tr>
+                        <td>@tour.TenTour</td>
+                        <td>@tour.LoaiTour.TenLoai</td>
+                        <td>@tour.DacDiem</td>
+                        <td>@tour.SoDoan</td>
+                        <td>@tour.SoKhach</td>
+                        <td>@tour.SoNv</td>
+                        <td>@string.Format("{0:C0}", tour.TongCp)</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@tour.MaTour" class="btn btn-success mx-2 my-2">
+                                <i class="far fa-edit"></i>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@tour.MaTour" class="btn btn-danger mx-2 my-2">
+                                <i class="far fa-trash-alt"></i>
+                            </a>
+                        </td>
+                    </tr>
+
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Rỗng</p>
+        }
+    </div>
+</div>

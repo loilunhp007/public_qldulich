@@ -1,0 +1,81 @@
+﻿@model List<TourManager.Models.Khach>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold">KHÁCH</h6>
+    </div>
+    <div class="card-body">
+        @*<form class="form-inline">
+                <div class="form-group mb-2 mx-4">
+                    <label>Khách</label>
+                    <div class="col-3" id="allKhach"></div>
+                </div>
+            </form>*@
+        <div class="col-12 text-right">
+            <a asp-controller="Khach" asp-action="Create" class="btn btn-info">
+                <i class="fas fa-plus"></i>
+            </a>
+        </div>
+
+        <br />
+
+        @if (Model.Count() > 0)
+        {
+            <table id="khachTable" class="table table-bordered table table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Tên
+                        </th>
+                        <th>
+                            Số Điện Thoại
+                        </th>
+                        <th>
+                            CMND
+                        </th>
+                        <th>
+                            Giới Tính
+                        </th>
+                        <th>
+                            Địa Chỉ
+                        </th>
+                        <th>
+                            Quốc Tịch
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var k in Model)
+                    {
+                    <tr>
+                        <td>@k.Ten</td>
+                        <td>@k.Sdt</td>
+                        <td>@k.Cmnd</td>
+                        <td>@k.GioiTinh</td>
+                        <td>@k.DiaChi</td>
+                        <td>@k.QuocTich</td>
+                        <td class="text-center">
+                            <a asp-action="Edit" asp-route-id="@k.MaKhach" class="btn btn-success mx-2 my-2">
+                                <i class="far fa-edit"></i>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@k.MaKhach" class="btn btn-danger mx-2 my-2">
+                                <i class="far fa-trash-alt"></i>
+                            </a>
+                        </td>
+                    </tr>
+
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Rỗng</p>
+        }
+    </div>
+</div>
